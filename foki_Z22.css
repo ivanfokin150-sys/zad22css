@@ -1,0 +1,17 @@
+p {
+color:red;
+font-size:22pt;
+}
+
+p#gruby_fokin {
+color:green;
+font-size:17pt;
+font-weight:bold;
+}
+
+#dlawszystkich_fokin {
+color:yellow;
+font-family:Arial;
+font-size:10pt;
+}
+/* Ivan Fokin */ 
